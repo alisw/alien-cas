@@ -8,6 +8,6 @@ crl_url = http://ca.austriangridca.at/crl/crl.pem
 url = http://ca.austriangridca.at/
 email = ca@austriangrid.at
 status = accredited:classic
-version = 1.92
+version = 1.94
 sha1fp.0 = 78:C7:06:8C:5B:1B:41:F0:93:21:CD:D1:D0:6C:D9:A9:A8:5A:98:64
 subjectdn = "/C=AT/O=AustrianGrid/OU=Certification Authority/CN=Certificate Issuer"

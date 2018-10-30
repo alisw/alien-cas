@@ -8,6 +8,6 @@ crl_url = http://cynet.ac.cy/CygridCA/afe55e66.r0
 email = cygrid-ca@cynet.ac.cy
 url = http://cynet.ac.cy/CygridCA/
 status = accredited:classic
-version = 1.92
+version = 1.94
 sha1fp.0 = 3E:6B:17:0A:5C:FB:60:CA:0F:50:36:87:B9:B5:29:38:97:6A:91:D0
 subjectdn = "/C=CY/O=CyGrid/O=HPCL/CN=CyGridCA"

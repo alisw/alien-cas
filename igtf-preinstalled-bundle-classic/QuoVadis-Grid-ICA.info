@@ -9,6 +9,6 @@ crl_url = http://crl.quovadisglobal.com/qvgridg1.crl
 email = compliance@quovadisglobal.com
 status = accredited:classic
 url = https://www.quovadisglobal.bm/
-version = 1.92
+version = 1.94
 sha1fp.0 = 39:4B:FA:49:40:63:A5:D0:88:4C:67:8F:FC:AB:38:2F:7C:47:64:DA
 subjectdn = "/C=BM/O=QuoVadis Limited/OU=Issuing Certification Authority/CN=QuoVadis Grid ICA"

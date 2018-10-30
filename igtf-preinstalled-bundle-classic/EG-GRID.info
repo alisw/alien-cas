@@ -9,6 +9,6 @@ policy_url = http://www.grid.eun.eg/cpcps.html
 email = ca@grid.scu.eg
 status = accredited:classic
 url = http://www.grid.eun.eg
-version = 1.92
+version = 1.94
 sha1fp.0 = DC:3F:76:64:1D:A2:48:B0:27:38:E2:C5:17:45:05:9A:16:1A:B6:4C
 subjectdn = "/C=EG/O=EG-GRID/CN=EG-GRID Certification Authority"
