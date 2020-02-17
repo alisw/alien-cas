@@ -1,0 +1,8 @@
+##############################################################################
+#NAMESPACES-VERSION: 1.0
+#
+# CA alias    : AliEn2-CA
+#    subjectDN: /C=ch/O=AliEn2/CN=AliEn CA
+#
+TO Issuer "/C=ch/O=AliEn2/CN=AliEn CA" \
+  PERMIT Subject "/C=ch/O=AliEn2/.*"
