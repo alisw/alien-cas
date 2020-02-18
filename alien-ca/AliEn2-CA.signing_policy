@@ -23,6 +23,6 @@
 #  token type  | def.authority |                value              
 #--------------|---------------|-----------------------------------------
 # EACL entry #1|
-access_id_CA	   X509	        '/C=ch/O=AliEn/CN=AliEn CA' 
+access_id_CA	   X509	        '/C=ch/O=AliEn2/CN=AliEn CA' 
 pos_rights    	   globus	 CA:sign 
-cond_subjects	   globus        '"/C=ch/O=AliEn/*"'
+cond_subjects	   globus        '"/C=ch/O=AliEn2/*"'
