@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+
+IGTF="http://dist.eugridpma.info/distribution/igtf/current/accredited"
+curl -k \
+-O ${IGTF}/igtf-preinstalled-bundle-classic.tar.gz \
+-O ${IGTF}/igtf-preinstalled-bundle-iota.tar.gz \
+-O ${IGTF}/igtf-preinstalled-bundle-mics.tar.gz \
+-O ${IGTF}/igtf-preinstalled-bundle-slcs.tar.gz
+
+for igtf_dist in *.tar.gz; do
+    igtf_name="$(basename ${igtf_dist} .tar.gz)"
+    rm -rf "${igtf_name}"
+    mkdir -p "${igtf_name}"
+    tar -x -C "${igtf_name}" -f "${igtf_dist}"
+    rm -rf "${igtf_dist}"
+done
+
+echo 'The sysadmin should be aware of "openssl rehash" command and -compat argument for openssl < 1.0.0'
+
