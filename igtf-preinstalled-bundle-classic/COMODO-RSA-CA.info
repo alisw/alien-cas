@@ -5,6 +5,6 @@ ca_url = http://crt.comodoca.com/COMODORSAAddTrustCA.crt
 crl_url = http://crl.comodoca.com/COMODORSACertificationAuthority.crl
 email = admin@incommon.org
 status = accredited:classic
-version = 1.107
+version = 1.111
 sha1fp.0 = AF:E5:D2:44:A8:D1:19:42:30:FF:47:9F:E2:F8:97:BB:CD:7A:8C:B4
 subjectdn = "/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO RSA Certification Authority"
