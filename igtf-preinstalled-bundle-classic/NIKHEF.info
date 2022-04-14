@@ -9,6 +9,6 @@ policy_url = http://ca.dutchgrid.nl/medium/policy/
 email = ca@dutchgrid.nl
 status = accredited:classic
 url = http://ca.dutchgrid.nl/medium/
-version = 1.111
+version = 1.115
 sha1fp.0 = F8:4D:ED:9B:42:34:58:F4:3B:AF:BF:0A:6E:1A:84:5C:18:34:5A:A3
 subjectdn = "/C=NL/O=NIKHEF/CN=NIKHEF medium-security certification auth"
