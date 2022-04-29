@@ -8,6 +8,6 @@ email = prodseccompliance@digicert.com
 status = accredited:classic
 url = http://www.DigiCert-Grid.com/
 requires = DigiCertAssuredIDRootCA-Root
-version = 1.115
+version = 1.116
 sha1fp.0 = DD:D7:1E:A5:23:EB:EE:4D:EB:29:41:24:D3:AE:52:D9:CA:19:73:AC
 subjectdn = "/C=US/O=DigiCert Grid/OU=www.digicert.com/CN=DigiCert Grid Trust CA"

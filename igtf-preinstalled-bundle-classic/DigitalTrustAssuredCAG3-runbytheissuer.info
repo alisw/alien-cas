@@ -8,6 +8,6 @@ email = ca-admins@digitaltrust.ae
 status = accredited:classic
 url = http://digitaltrustgrid.ae/Grid/
 requires = USERTrustECCCertificationAuthority
-version = 1.115
+version = 1.116
 sha1fp.0 = 9D:54:E9:A0:DE:59:80:4F:1A:41:01:E8:77:A2:08:0E:C2:BB:88:7D
 subjectdn = "/C=AE/O=Digital Trust L.L.C./CN=DigitalTrust Assured CA G3  [Run by the Issuer]"

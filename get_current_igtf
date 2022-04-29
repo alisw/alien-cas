@@ -15,5 +15,12 @@ for igtf_dist in *.tar.gz; do
     rm -rf "${igtf_dist}"
 done
 
-echo 'The sysadmin should be aware of "openssl rehash" command and -compat argument for openssl < 1.0.0'
+for d in $(find $(pwd -P) -mindepth 1 -maxdepth 1 -type d | grep -v '.git'); do
+    pushd ${d} &> /dev/null;
+    pwd
+    openssl rehash -compat .;
+    popd &> /dev/null;
+done
+
+echo '"openssl rehash -compat ." was done on each directory'
 
