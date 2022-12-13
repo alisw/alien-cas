@@ -10,6 +10,6 @@ policy_url = https://www.terena.org/activities/tcs/repository/
 requires = USERTrustECCCertificationAuthority
 email = tcs-pma@lists.geant.org
 status = accredited:classic
-version = 1.115
+version = 1.117
 sha1fp.0 = 81:6A:8A:8C:3D:ED:B3:E8:5C:40:61:B5:A3:85:61:39:10:9D:FE:0A
 subjectdn = "/C=NL/O=GEANT Vereniging/CN=GEANT eScience SSL ECC CA 4"

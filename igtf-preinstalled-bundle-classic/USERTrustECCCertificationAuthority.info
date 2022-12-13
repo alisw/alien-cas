@@ -9,6 +9,6 @@ policy_url = https://sectigo.com/legal
 url = https://sectigo.com/
 email = tcs-pma@lists.geant.org
 status = accredited:classic
-version = 1.115
+version = 1.117
 sha1fp.0 = D1:CB:CA:5D:B2:D5:2A:7F:69:3B:67:4D:E5:F0:5A:1D:0C:95:7D:F0
 subjectdn = "/C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust ECC Certification Authority"

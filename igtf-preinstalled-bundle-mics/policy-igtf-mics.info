@@ -1,12 +1,12 @@
 # @(#)policy-igtf-mics.info - IGTF mics authorities
-# Generated Sunday, 20 Mar, 2022
+# Generated Tuesday, 09 Aug, 2022
 alias = policy-igtf-mics
-version = 1.115
-requires = GEANTeSciencePersonalECCCA4 = 1.115, \
-    TERENAeSciencePersonalCA3 = 1.115, \
-    GEANTeSciencePersonalCA4 = 1.115, \
-    cilogon-silver = 1.115, \
-    HPCI = 1.115
+version = 1.117
+requires = GEANTeSciencePersonalECCCA4 = 1.117, \
+    TERENAeSciencePersonalCA3 = 1.117, \
+    GEANTeSciencePersonalCA4 = 1.117, \
+    cilogon-silver = 1.117, \
+    HPCI = 1.117
 subjectdn = "/C=NL/O=GEANT Vereniging/CN=GEANT eScience Personal ECC CA 4", \
     "/C=NL/ST=Noord-Holland/L=Amsterdam/O=TERENA/CN=TERENA eScience Personal CA 3", \
     "/C=NL/O=GEANT Vereniging/CN=GEANT eScience Personal CA 4", \
