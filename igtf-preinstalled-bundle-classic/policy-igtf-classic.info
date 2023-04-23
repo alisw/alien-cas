@@ -1,86 +1,84 @@
 # @(#)policy-igtf-classic.info - IGTF classic authorities
-# Generated Tuesday, 09 Aug, 2022
+# Generated Thursday, 09 Mar, 2023
 alias = policy-igtf-classic
-version = 1.117
-requires = seegrid-ca-2013 = 1.117, \
-    SlovakGrid = 1.117, \
-    BG-ACAD-CA = 1.117, \
-    RDIG = 1.117, \
-    CESNET-CA-Root = 1.117, \
-    DFN-GridGermany-Root = 1.117, \
-    DigitalTrustIGTFCA = 1.117, \
-    UKeScienceCA-2B = 1.117, \
-    REUNA-ca = 1.117, \
-    SRCE = 1.117, \
-    DigiCert-Assured-ID-Grid-Client-RSA2048-SHA256-2022-CA1 = 1.117, \
-    DigitalTrustSecureCAG4-runbytheissuer = 1.117, \
-    ASGCCA-2007 = 1.117, \
-    AC-GRID-FR-Robots = 1.117, \
-    UNAMgrid-ca = 1.117, \
-    PK-Grid-2007 = 1.117, \
-    ANSPGrid = 1.117, \
-    HKU-CA-2 = 1.117, \
-    PKIUNAMgrid = 1.117, \
-    QuoVadis-Root-CA3G3 = 1.117, \
-    LIPCA = 1.117, \
-    DigiCertGridTrustCAG2-Classic = 1.117, \
-    AC-GRID-FR = 1.117, \
-    MaGrid = 1.117, \
-    DigiCert-Assured-ID-Grid-TLS-RSA2048-SHA256-2022-CA1 = 1.117, \
-    SDG-G2 = 1.117, \
-    ArmeSFo = 1.117, \
-    QuoVadis-Root-CA2 = 1.117, \
-    SiGNET-CA = 1.117, \
-    IHEP-2013 = 1.117, \
-    TERENA-eScience-SSL-CA-3 = 1.117, \
-    UGRID-G2 = 1.117, \
-    GEANTeScienceSSLECCCA4 = 1.117, \
-    COMODO-RSA-CA = 1.117, \
-    MREN-CA = 1.117, \
-    AC-GRID-FR-Services = 1.117, \
-    NorduGrid-2015 = 1.117, \
-    DigiCertGridCA-1-Classic = 1.117, \
-    TSU-GE = 1.117, \
-    IGCA2 = 1.117, \
-    BYGCA = 1.117, \
-    CNIC = 1.117, \
-    DZeScience = 1.117, \
-    InCommon-IGTF-Server-CA = 1.117, \
-    KEK = 1.117, \
-    DigiCertGridCA-1G2-Classic-2015 = 1.117, \
-    NIIF-Root-CA-2 = 1.117, \
-    MARGI = 1.117, \
-    GEANTeScienceSSLCA4 = 1.117, \
-    PolishGrid-2019 = 1.117, \
-    CERN-GridCA = 1.117, \
-    KISTIv3 = 1.117, \
-    USERTrustRSACertificationAuthority = 1.117, \
-    QuoVadis-Grid-ICA-G2 = 1.117, \
-    DigiCertAssuredIDRootCA-Root = 1.117, \
-    DigitalTrustPrivateRootCAG4 = 1.117, \
-    GermanGrid = 1.117, \
-    KENETCA-ICA-2015 = 1.117, \
-    DigitalTrustSecureCAG3-runbytheissuer = 1.117, \
-    DigiCertGridTrustCA-Classic = 1.117, \
-    KENETROOTCA = 1.117, \
-    CESNET-CA-4 = 1.117, \
-    HellasGrid-CA-2016 = 1.117, \
-    AEGIS = 1.117, \
-    USERTrustECCCertificationAuthority = 1.117, \
-    DCAROOT-G1 = 1.117, \
-    NIKHEF = 1.117, \
-    UNLPGrid = 1.117, \
-    IRAN-GRID-GCG-G2 = 1.117, \
-    QuoVadis-Root-CA2G3 = 1.117, \
-    DigitalTrustAssuredCAG3-runbytheissuer = 1.117, \
-    AC-GRID-FR-Personnels = 1.117, \
-    GridCanada = 1.117, \
-    RomanianGRID = 1.117, \
-    UKeScienceRoot-2007 = 1.117, \
-    DigiCertGridRootCA-Root = 1.117, \
-    TRGrid = 1.117, \
-    DigitalTrustAssuredCAG4-runbytheissuer = 1.117, \
-    CERN-Root-2 = 1.117
+version = 1.119
+requires = seegrid-ca-2013 = 1.119, \
+    SlovakGrid = 1.119, \
+    BG-ACAD-CA = 1.119, \
+    RDIG = 1.119, \
+    CESNET-CA-Root = 1.119, \
+    DFN-GridGermany-Root = 1.119, \
+    DigitalTrustIGTFCA = 1.119, \
+    UKeScienceCA-2B = 1.119, \
+    REUNA-ca = 1.119, \
+    SRCE = 1.119, \
+    DigiCert-Assured-ID-Grid-Client-RSA2048-SHA256-2022-CA1 = 1.119, \
+    DigitalTrustSecureCAG4-runbytheissuer = 1.119, \
+    ASGCCA-2007 = 1.119, \
+    AC-GRID-FR-Robots = 1.119, \
+    UNAMgrid-ca = 1.119, \
+    PK-Grid-2007 = 1.119, \
+    ANSPGrid = 1.119, \
+    HKU-CA-2 = 1.119, \
+    PKIUNAMgrid = 1.119, \
+    QuoVadis-Root-CA3G3 = 1.119, \
+    LIPCA = 1.119, \
+    DigiCertGridTrustCAG2-Classic = 1.119, \
+    AC-GRID-FR = 1.119, \
+    MaGrid = 1.119, \
+    DigiCert-Assured-ID-Grid-TLS-RSA2048-SHA256-2022-CA1 = 1.119, \
+    SDG-G2 = 1.119, \
+    ArmeSFo = 1.119, \
+    QuoVadis-Root-CA2 = 1.119, \
+    SiGNET-CA = 1.119, \
+    IHEP-2013 = 1.119, \
+    TERENA-eScience-SSL-CA-3 = 1.119, \
+    UGRID-G2 = 1.119, \
+    GEANTeScienceSSLECCCA4 = 1.119, \
+    COMODO-RSA-CA = 1.119, \
+    MREN-CA = 1.119, \
+    AC-GRID-FR-Services = 1.119, \
+    NorduGrid-2015 = 1.119, \
+    TSU-GE = 1.119, \
+    IGCA2 = 1.119, \
+    BYGCA = 1.119, \
+    CNIC = 1.119, \
+    DZeScience = 1.119, \
+    InCommon-IGTF-Server-CA = 1.119, \
+    KEK = 1.119, \
+    DigiCertGridCA-1G2-Classic-2015 = 1.119, \
+    NIIF-Root-CA-2 = 1.119, \
+    MARGI = 1.119, \
+    GEANTeScienceSSLCA4 = 1.119, \
+    PolishGrid-2019 = 1.119, \
+    CERN-GridCA = 1.119, \
+    KISTIv3 = 1.119, \
+    USERTrustRSACertificationAuthority = 1.119, \
+    QuoVadis-Grid-ICA-G2 = 1.119, \
+    DigiCertAssuredIDRootCA-Root = 1.119, \
+    DigitalTrustPrivateRootCAG4 = 1.119, \
+    GermanGrid = 1.119, \
+    KENETCA-ICA-2015 = 1.119, \
+    DigitalTrustSecureCAG3-runbytheissuer = 1.119, \
+    KENETROOTCA = 1.119, \
+    CESNET-CA-4 = 1.119, \
+    HellasGrid-CA-2016 = 1.119, \
+    AEGIS = 1.119, \
+    USERTrustECCCertificationAuthority = 1.119, \
+    DCAROOT-G1 = 1.119, \
+    NIKHEF = 1.119, \
+    UNLPGrid = 1.119, \
+    IRAN-GRID-GCG-G2 = 1.119, \
+    QuoVadis-Root-CA2G3 = 1.119, \
+    DigitalTrustAssuredCAG3-runbytheissuer = 1.119, \
+    AC-GRID-FR-Personnels = 1.119, \
+    GridCanada = 1.119, \
+    RomanianGRID = 1.119, \
+    UKeScienceRoot-2007 = 1.119, \
+    DigiCertGridRootCA-Root = 1.119, \
+    TRGrid = 1.119, \
+    DigitalTrustAssuredCAG4-runbytheissuer = 1.119, \
+    CERN-Root-2 = 1.119
 subjectdn = "/DC=ORG/DC=SEE-GRID/CN=SEE-GRID CA 2013", \
     "/C=SK/O=SlovakGrid/CN=SlovakGrid CA", \
     "/DC=bg/DC=acad/CN=BG.ACAD CA", \
@@ -118,7 +116,6 @@ subjectdn = "/DC=ORG/DC=SEE-GRID/CN=SEE-GRID CA 2013", \
     "/DC=me/DC=ac/DC=MREN/CN=MREN-CA", \
     "/C=FR/O=MENESR/OU=GRID-FR/CN=AC GRID-FR Services", \
     "/O=Grid/O=NorduGrid/CN=NorduGrid Certification Authority 2015", \
-    "/DC=com/DC=DigiCert-Grid/O=DigiCert Grid/CN=DigiCert Grid CA-1", \
     "/DC=GE/DC=TSU/CN=TSU Root CA", \
     "/DC=IN/DC=GARUDAINDIA/CN=Indian Grid Certification Authority 2", \
     "/DC=by/DC=grid/O=uiip.bas-net.by/CN=Belarusian Grid Certification Authority", \
@@ -140,7 +137,6 @@ subjectdn = "/DC=ORG/DC=SEE-GRID/CN=SEE-GRID CA 2013", \
     "/C=DE/O=GermanGrid/CN=GridKa-CA", \
     "/DC=ke/DC=kenet/O=Kenya Education Network Trust/OU=Research Services/CN=KENET CA", \
     "/C=AE/O=Digital Trust L.L.C./CN=DigitalTrust Secure CA G3  [Run by the Issuer]", \
-    "/C=US/O=DigiCert Grid/OU=www.digicert.com/CN=DigiCert Grid Trust CA", \
     "/DC=ke/DC=kenet/O=Kenya Education Network Trust/OU=Research Services/CN=KENET ROOT CA", \
     "/DC=cz/DC=cesnet-ca/O=CESNET CA/CN=CESNET CA 4", \
     "/C=GR/O=HellasGrid/OU=Certification Authorities/CN=HellasGrid CA 2016", \
@@ -271,4 +267,6 @@ obsoletes = CyGrid-old, \
     MD-Grid-CA-T, \
     CNRS2, \
     CNRS2-Projets, \
-    CNRS2-Grid-FR
+    CNRS2-Grid-FR, \
+    DigiCertGridTrustCA-Classic, \
+    DigiCertGridCA-1-Classic
