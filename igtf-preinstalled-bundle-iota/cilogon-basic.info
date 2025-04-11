@@ -4,6 +4,6 @@ ca_url = https://cilogon.org/cilogon-basic.pem
 crl_url = http://crl-cilogon.ncsa-security.net/cilogon-basic.crl;http://crl.cilogon.org/cilogon-basic.crl
 email = ca@cilogon.org
 status = accredited:iota
-version = 1.119
+version = 1.134
 sha1fp.0 = 96:D8:FB:A6:F8:03:DA:A8:E7:70:DB:BA:5C:6A:2F:58:93:D8:60:28
 subjectdn = "/DC=org/DC=cilogon/C=US/O=CILogon/CN=CILogon Basic CA 1"

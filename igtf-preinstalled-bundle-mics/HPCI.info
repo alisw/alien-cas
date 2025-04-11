@@ -1,5 +1,5 @@
 #
-# @(#)$Id: 61cd35bd.info,v 1.3 2015/06/18 09:44:53 pmacvsdg Exp $
+# @(#)$Id: 61cd35bd.info,v 1.2 2014/09/01 09:07:18 pmacvsdg Exp $
 #
 alias = HPCI
 crl_url = http://www.hpci.nii.ac.jp/ca/hpcica.crl
@@ -8,6 +8,6 @@ email = hpci-ca-support@nii.ac.jp
 status = accredited:mics
 url = https://www.hpci.nii.ac.jp/ca/
 policy_url = https://www.hpci.nii.ac.jp/ca/CP_CPS.html
-version = 1.119
+version = 1.134
 sha1fp.0 = AD:4A:2B:02:11:0D:E3:0A:E0:41:22:02:83:F7:A5:54:EA:43:CC:3E
 subjectdn = "/C=JP/O=NII/OU=HPCI/CN=HPCI CA"

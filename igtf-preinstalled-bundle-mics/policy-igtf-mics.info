@@ -1,16 +1,23 @@
 # @(#)policy-igtf-mics.info - IGTF mics authorities
-# Generated Thursday, 09 Mar, 2023
+# Generated Tuesday, 04 Mar, 2025
 alias = policy-igtf-mics
-version = 1.119
-requires = GEANTeSciencePersonalECCCA4 = 1.119, \
-    TERENAeSciencePersonalCA3 = 1.119, \
-    GEANTeSciencePersonalCA4 = 1.119, \
-    cilogon-silver = 1.119, \
-    HPCI = 1.119
-subjectdn = "/C=NL/O=GEANT Vereniging/CN=GEANT eScience Personal ECC CA 4", \
-    "/C=NL/ST=Noord-Holland/L=Amsterdam/O=TERENA/CN=TERENA eScience Personal CA 3", \
-    "/C=NL/O=GEANT Vereniging/CN=GEANT eScience Personal CA 4", \
+version = 1.134
+requires = GEANTTCSAuthenticationECCCA4B = 1.134, \
+    GEANTTCSAuthenticationRSACA4B = 1.134, \
+    GEANTTCSAuthenticationRSACA5 = 1.134, \
+    GEANTTCSAuthenticationECCCA5 = 1.134, \
+    cilogon-silver = 1.134, \
+    GEANTeSciencePersonalECCCA4 = 1.134, \
+    GEANTeSciencePersonalCA4 = 1.134, \
+    HPCI = 1.134
+subjectdn = "/C=NL/O=GEANT Vereniging/CN=GEANT TCS Authentication ECC CA 4B", \
+    "/C=NL/O=GEANT Vereniging/CN=GEANT TCS Authentication RSA CA 4B", \
+    "/C=NL/O=GEANT Vereniging/CN=GEANT TCS Authentication RSA CA 5", \
+    "/C=NL/O=GEANT Vereniging/CN=GEANT TCS Authentication ECC CA 5", \
     "/DC=org/DC=cilogon/C=US/O=CILogon/CN=CILogon Silver CA 1", \
+    "/C=NL/O=GEANT Vereniging/CN=GEANT eScience Personal ECC CA 4", \
+    "/C=NL/O=GEANT Vereniging/CN=GEANT eScience Personal CA 4", \
     "/C=JP/O=NII/OU=HPCI/CN=HPCI CA"
 obsoletes = TACC-MICS, \
-    NCSA-mics
+    NCSA-mics, \
+    TERENAeSciencePersonalCA3
