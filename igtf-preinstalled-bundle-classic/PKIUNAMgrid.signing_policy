@@ -1,4 +1,4 @@
-# @(#)$Id: PKIUNAMgrid.signing_policy,v 1.1 2017/11/10 13:04:58 pmacvsdg Exp $
+# @(#)$Id$
 #
 access_id_CA      X509     '/C=MX/O=UNAM/OU=UNAMgrid/CN=PKIUNAMgrid'
 pos_rights        globus   CA:sign

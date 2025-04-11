@@ -1,7 +1,7 @@
 # @(#)policy-igtf-slcs.info - IGTF slcs authorities
-# Generated Thursday, 09 Mar, 2023
+# Generated Tuesday, 04 Mar, 2025
 alias = policy-igtf-slcs
-version = 1.119
+version = 1.134
 requires = 
 subjectdn = 
 obsoletes = SWITCHslcs, \

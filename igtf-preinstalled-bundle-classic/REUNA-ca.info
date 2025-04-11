@@ -1,5 +1,5 @@
 #
-# @(#)$Id: 295adc19.info,v 1.6 2017/03/13 09:00:31 pmacvsdg Exp $
+# @(#)$Id: 295adc19.info,v 1.5 2015/06/18 09:44:56 pmacvsdg Exp $
 #
 alias =	REUNA-ca
 url = http://reuna-ca.reuna.cl/
@@ -8,5 +8,5 @@ crl_url = http://reuna-ca.reuna.cl/crl/crl.der
 email = reuna-ca@reuna.cl
 status = accredited:classic
 sha1fp.0 = 94:CE:21:D2:CB:3E:DF:2A:02:C1:EC:00:3B:2D:C0:18:A0:53:DE:85
-version = 1.119
+version = 1.134
 subjectdn = "/C=CL/O=REUNACA/CN=REUNA Certification Authority"

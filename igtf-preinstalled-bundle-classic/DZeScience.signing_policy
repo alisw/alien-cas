@@ -1,5 +1,5 @@
 # EACL - DZ e-Science CA
-# @(#)$Id: 0a49430a.signing_policy,v 1.1 2011/06/06 17:33:27 pmacvsdg Exp $
+# @(#)$Id$
 #
 access_id_CA   X509    '/DC=DZ/DC=ARN/O=DZ e-Science GRID/CN=DZ e-Science CA'
 pos_rights     globus  CA:sign

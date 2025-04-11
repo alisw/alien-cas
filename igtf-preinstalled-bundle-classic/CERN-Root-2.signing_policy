@@ -1,4 +1,4 @@
-# @(#)$Id: b4278411.signing_policy,v 1.2 2016/01/27 17:00:22 pmacvsdg Exp $
+# @(#)$Id: b4278411.signing_policy,v 1.1 2013/05/21 20:34:25 pmacvsdg Exp $
 # CERN Root 2
 access_id_CA            X509    '/C=ch/O=CERN/CN=CERN Root Certification Authority 2'
 pos_rights              globus  CA:sign
